@@ -2,9 +2,6 @@
 
 💻 **Desarrollador Full Stack** | 🌐 **Apasionado por Web3** | ⚙ **Integraciones y Automatización**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ChristianNovoa&color=blue&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/ChristianNovoa?label=Follow&style=social)
-![GitHub Stars](https://img.shields.io/github/stars/ChristianNovoa?style=social)
 
 ---
 
@@ -48,11 +45,6 @@ Me motiva crear soluciones digitales que no solo funcionen, sino que **escale**,
 
 ---
 
-## 📊 GitHub Stats
-![Christian's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristianNovoa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristianNovoa&layout=compact&theme=radical)
-
----
 
 ## 📫 Conecta conmigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/christian-novoa-662412281/)
